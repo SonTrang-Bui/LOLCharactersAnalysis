@@ -13,6 +13,5 @@ Instead of relying on the summaries of the Fandom website, the analysis utilises
   + scikit-learn
   + NetworkX
   + Matplotlib
-
 ## Caution
 Champion "Milio" has different HTML structure, so the Python script can't scrape its stories. To avoid any errors while running the notebook, remove champion "Milio" completely, or copy the story manually from official websites to the CSV file. If the script can't scrape other stories, please provide longer waiting time.
